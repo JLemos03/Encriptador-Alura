@@ -58,7 +58,7 @@ main{
 .alert{
     position: absolute;
     top: 750px;
-    left: 370px;
+    left: 20%;
     display: flex;
     color: #495057;
 }
@@ -85,6 +85,7 @@ main{
     border: none;
     margin-right: 20px;
     cursor: pointer;
+    
 
 }
 
